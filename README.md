@@ -3,4 +3,4 @@
 Development starting soon...
 
 
-Note to Self: BundleID - ca.brennanleblanc.openpolls
+Note to Self: Future BundleID - ca.brennanleblanc.openpolls
